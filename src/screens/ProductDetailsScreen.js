@@ -69,7 +69,7 @@ const styles = StyleSheet.create({
     width: "90%",
     alignSelf: "center",
     padding: 20,
-    borderRadius: 10,
+    borderRadius: 40,
     alignItems: "center",
   },
   buttonText: {
